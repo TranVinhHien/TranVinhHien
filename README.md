@@ -29,48 +29,13 @@ I’m a software developer with experience in backend, APIs, and database optimi
 
 ---
 
-## 📈 GitHub Stats
-
-![Hien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hienlazada1\&show_icons=true\&include_all_commits=true\&count_private=true\&rank_icon=github\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hienlazada1\&layout=compact\&langs_count=8\&hide=css,html\&theme=radical)
-
 ---
 
 ## 🚀 Featured Projects
 
-### [1) Agent Platform — ADK + A2A, RAG & MCP](https://github.com/hienlazada1/<REPO_AGENT_NAME>)
 
-**Summary:** An Agent system integrating **RAG** and **MCP** with ADK and A2A.
-**Role:** Lead Intern (BiTech) • **Stack:** Go (backend), ADK, A2A, RAG, MCP
+### [1) E‑commerce Backend (University Project)]([https://github.com/hienlazada1/<REPO_ECOM_BE_NAME>)](https://github.com/TranVinhHien/e-commerce))
 
-* Built APIs for data pipelines and orchestration.
-* Led a team of interns to deliver features on time.
-* Designed robust endpoints with authentication and error handling.
-
----
-
-### [2) E‑commerce Backend (University Project)](https://github.com/hienlazada1/<REPO_ECOM_BE_NAME>)
-
-**Summary:** A backend system for an e‑commerce application.
-**Role:** Backend Engineer • **Stack:** Go (Gin), PostgreSQL/MySQL
-
-* Developed APIs for authentication, products, cart, and orders.
-* Optimized queries using indexes and pagination.
-* Documented API endpoints for frontend usage.
-
----
-
-### [3) Mobile App ↔️ Go API Integration](https://github.com/hienlazada1/<REPO_MOBILE_API_NAME>)
-
-**Summary:** A mobile application connected with a Go API.
-**Role:** Backend Developer • **Stack:** Go (Gin/Fiber), React Native/Flutter, FastAPI
-
-* Built API consumed by a mobile frontend.
-* Added JWT authentication, rate limiting, and error handling.
-* Integrated with auxiliary FastAPI services for additional features.
-
----
 
 ## 🧠 Key Strengths
 
