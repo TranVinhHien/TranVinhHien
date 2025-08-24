@@ -18,17 +18,7 @@ I’m a software developer with experience in backend, APIs, and database optimi
 * **DevOps:** Docker (containerization, basic deployments).
 * **Networking:** Basic understanding of networking fundamentals.
 * **Team Collaboration:** Code reviews, documentation, project planning.
-
----
-
-## 🔗 Quick Links
-
-* **Portfolio / Resume:** \<ADD\_LINK\_HERE>
-* **LinkedIn:** \<ADD\_LINKEDIN\_HERE>
-* **YouTube Demo(s):** \<ADD\_YOUTUBE\_PLAYLIST\_OR\_VIDEO\_LINK>
-
----
-
+  
 ---
 
 ## 🚀 Featured Projects
@@ -50,8 +40,6 @@ I’m a software developer with experience in backend, APIs, and database optimi
 ## 📬 Contact
 
 * **Email:** [vinhfhien12z@gmail.com](mailto:vinhfhien12z@gmail.com)
-* **LinkedIn:** \<ADD\_LINKEDIN\_HERE>
-* **(Optional) Discord/Telegram:** \<ADD\_HANDLE>
 
 ---
 
